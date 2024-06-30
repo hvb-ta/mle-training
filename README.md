@@ -14,5 +14,19 @@ The following techniques have been used:
  - Multiple sampling techinuqies are evaluated. The data set is split into train and test.
  - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared error.
 
+## Bugs removed
+ - fetch_housing_data()
+ - housing = load_housing_data()
+ (These functions were called)
+
+ - corr_matrix = housing.corr(numeric_only=True)
+ (This syntax was changed. Old one was deprecated)
+
 ## To excute the script
-python < scriptname.py >
+python nonstandardcode.py
+
+## To add .yml file
+conda env export --no-builds > env.yml
+
+## To activate python-development environment mle-dev
+conda activate mle-dev
