@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: HousePricePrediction
+Version: 0.1
+Author: Harsh Vardhan Badaya
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
