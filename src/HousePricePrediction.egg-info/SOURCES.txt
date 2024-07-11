@@ -1,5 +1,6 @@
 README.md
 setup.py
+src/main.py
 src/HousePricePrediction/__init__.py
 src/HousePricePrediction/ingest_data.py
 src/HousePricePrediction/logger.py
