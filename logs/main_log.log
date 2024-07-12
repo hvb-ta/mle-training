@@ -1,0 +1,7 @@
+2024-07-10 23:44:17,200 - INFO - Ingest data workflow completed.
+2024-07-10 23:46:06,161 - INFO - Decision Tree Model Trained
+2024-07-10 23:46:06,296 - INFO - Linear Regression Model Trained
+2024-07-11 00:17:51,334 - INFO - Random Forest Model 1 trained
+2024-07-11 00:24:10,521 - INFO - Random Forest Model 2 trained
+2024-07-11 00:24:10,542 - INFO - Training models workflow completed.
+2024-07-11 00:24:53,131 - INFO - Scoring models workflow completed.
