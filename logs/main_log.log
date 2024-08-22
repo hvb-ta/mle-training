@@ -5,3 +5,10 @@
 2024-07-11 00:24:10,521 - INFO - Random Forest Model 2 trained
 2024-07-11 00:24:10,542 - INFO - Training models workflow completed.
 2024-07-11 00:24:53,131 - INFO - Scoring models workflow completed.
+2024-08-10 14:59:23,739 - INFO - Ingest data workflow completed.
+2024-08-10 14:59:32,165 - INFO - Decision Tree Model Trained
+2024-08-10 14:59:32,176 - INFO - Linear Regression Model Trained
+2024-08-10 15:04:25,791 - INFO - Random Forest Model 1 trained
+2024-08-10 15:05:52,028 - INFO - Random Forest Model 2 trained
+2024-08-10 15:05:52,028 - INFO - Training models workflow completed.
+2024-08-10 15:12:47,691 - INFO - Scoring models workflow completed.
